@@ -65,7 +65,7 @@ main {
 
 /* HERO SECTION */
 .hero {
-  background: url('assets/socorros-salve.png') center center/cover no-repeat;
+  background: url('assets/health.png') center center/cover no-repeat;
   color: white;
   padding: 100px 60px;
   position: relative;
